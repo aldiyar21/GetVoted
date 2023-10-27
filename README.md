@@ -9,6 +9,7 @@ GetVoted is important essential in making sure that voting processes are fair an
 ![Screenshot](Screenshot_2.png)
 ![Screenshot](Screenshot_3.png)
 ![Screenshot](Screenshot_4.png)
+This is the final result page, here the user can see the results of the final votes
 ![Screenshot](Screenshot_5.png)
 ![Screenshot](Screenshot_7.png)
 On this page we can see a 404 error. If the user goes to a non-existent page, it means that the requested information does not exist on the site. The page may have been deleted, moved, or the URL may have been entered incorrectly.
