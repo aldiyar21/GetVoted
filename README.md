@@ -5,8 +5,11 @@ GetVoted is important essential in making sure that voting processes are fair an
 
 ## Pages documentation
 ![Screenshot](Screenshot_6.png)
+In index.html we have navigation bar and login
 ![Screenshot](Screenshot_1.png)
+Here you can read about GetVoted and Decentralized Voting 
 ![Screenshot](Screenshot_2.png)
+also we have  “Open voting” where you can see votings that happening right now
 ![Screenshot](Screenshot_3.png)
 ![Screenshot](Screenshot_4.png)
 This is the final result page, here the user can see the results of the final votes
