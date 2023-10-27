@@ -3,3 +3,5 @@ Our decentralized voting app seeks to fundamentally alter how elections and deci
 
 GetVoted is important essential in making sure that voting processes are fair and reliable, not only for political elections but also for corporate decision-making.
 
+![Uploading image.png…]()
+
