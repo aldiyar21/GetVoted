@@ -6,8 +6,10 @@ GetVoted is important essential in making sure that voting processes are fair an
 ## Pages documentation
 ![Screenshot](Screenshot_6.png)
 In index.html we have navigation bar and login
+
 ![Screenshot](Screenshot_1.png)
 Here you can read about GetVoted and Decentralized Voting 
+
 ![Screenshot](Screenshot_2.png)
 The adminpanel.html page is designed to add new polls. To add poll you need to fill in Topic, Number of Candidates, Start Date, End Date, Description of Poll, Image of Poll.
 
