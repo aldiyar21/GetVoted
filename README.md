@@ -16,6 +16,7 @@ The adminpanel.html page is designed to add new polls. To add poll you need to f
 also we have  “Open voting” where you can see votings that happening right now
 ![Screenshot](Screenshot_3.png)
 Also from below in adminpanel.html you can delete polls.
+
 ![Screenshot](Screenshot_4.png)
 This is the final result page, here the user can see the results of the final votes
 ![Screenshot](Screenshot_5.png)
